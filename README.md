@@ -7,8 +7,8 @@ Table of Contents:
 **Prerequisites**
 Before you begin, ensure you have met the following requirements:
 
-•You have installed Flutter (3.22.3 or later).
-•You have installed Dart (3.4.4 or later).
+<br>•You have installed Flutter (3.22.3 or later).<\br>
+<br>•You have installed Dart (3.4.4 or later).<\br>
 •You have an IDE setup with Flutter and Dart plugins (e.g., VS Code or Android Studio).
 •You have an emulator or a physical device for testing.
 
