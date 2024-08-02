@@ -4,33 +4,33 @@ Table of Contents:
 *Setup
 *Commands
 
-**Prerequisites**
+**Prerequisites**<br>
 Before you begin, ensure you have met the following requirements:
 
-<br>•You have installed Flutter (3.22.3 or later).<\br>
-<br>•You have installed Dart (3.4.4 or later).<\br>
-<br>•You have an IDE setup with Flutter and Dart plugins (e.g., VS Code or Android Studio).<\br>
-<br>•You have an emulator or a physical device for testing.<\br>
+<br>•You have installed Flutter (3.22.3 or later).
+<br>•You have installed Dart (3.4.4 or later).
+<br>•You have an IDE setup with Flutter and Dart plugins (e.g., VS Code or Android Studio).
+<br>•You have an emulator or a physical device for testing.
 
 
-**Setup**
+**Setup**<br>
 Follow these steps to set up the project locally:
 
-•Clone the repository:
- git clone https://github.com/your-username/your-flutter-dashboard.git
- cd your-flutter-dashboard
+•Clone the repository:<br>
+ git clone https://github.com/your-username/your-flutter-dashboard.git<br>
+ cd your-flutter-dashboard<br>
 
-•Install dependencies:
- flutter pub get
+•Install dependencies:<br>
+ flutter pub get<br>
 
-•Run the application:
- flutter run
+•Run the application:<br>
+ flutter run<br>
 
 
-**Commands**
-•Here are some essential commands you might need during development:
+**Commands**<br>
+•Here are some essential commands you might need during development:<br>
 
-•flutter run
-•flutter build apk
+•flutter run<br>
+•flutter build apk<br>
 
  
