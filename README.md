@@ -21,10 +21,10 @@ Follow these steps to set up the project locally:
  cd your-flutter-dashboard<br>
 
 •Install dependencies:<br>
- flutter pub get<br>
+  flutter pub get<br>
 
 •Run the application:<br>
- flutter run<br>
+  flutter run<br>
 
 
 **Commands**<br>
